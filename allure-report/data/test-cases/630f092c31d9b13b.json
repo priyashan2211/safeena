@@ -1,0 +1,62 @@
+{
+  "uid" : "630f092c31d9b13b",
+  "name" : "And User is on \"FIND OWNERS\" page",
+  "fullName" : "pet details: Verify pet details.And User is on \"FIND OWNERS\" page",
+  "historyId" : "7eb2b053f09907478d703069d2f8532c",
+  "time" : {
+    "start" : 1647498770182,
+    "stop" : 1647498771760,
+    "duration" : 1578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testClass",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testMethod",
+    "value" : "And User is on \"FIND OWNERS\" page"
+  }, {
+    "name" : "package",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.74"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "630f092c31d9b13b.json",
+  "parameterValues" : [ "chrome-99.0.4844.74" ]
+}

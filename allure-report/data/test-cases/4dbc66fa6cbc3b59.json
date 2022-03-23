@@ -1,0 +1,62 @@
+{
+  "uid" : "4dbc66fa6cbc3b59",
+  "name" : "Given User is on pet clinic website",
+  "fullName" : "pet details: Verify pet details.Given User is on pet clinic website",
+  "historyId" : "c943ace906a6713da96a35d68ae56d0e",
+  "time" : {
+    "start" : 1647498766290,
+    "stop" : 1647498770181,
+    "duration" : 3891
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testClass",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given User is on pet clinic website"
+  }, {
+    "name" : "package",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.74"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dbc66fa6cbc3b59.json",
+  "parameterValues" : [ "chrome-99.0.4844.74" ]
+}

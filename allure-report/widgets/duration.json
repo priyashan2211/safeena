@@ -1,0 +1,81 @@
+[ {
+  "uid" : "f9e8629c00bf3f74",
+  "name" : "Then Verify all pet details displayed in type",
+  "time" : {
+    "start" : 1647498786730,
+    "stop" : 1647498787479,
+    "duration" : 749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "630f092c31d9b13b",
+  "name" : "And User is on \"FIND OWNERS\" page",
+  "time" : {
+    "start" : 1647498770182,
+    "stop" : 1647498771760,
+    "duration" : 1578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e3983fb8d6e9de",
+  "name" : "When User is navigate to \"Add Pet\" page",
+  "time" : {
+    "start" : 1647498782822,
+    "stop" : 1647498784326,
+    "duration" : 1504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8be0243c37b4dde1",
+  "name" : "And User is on \"Add Owner\" page",
+  "time" : {
+    "start" : 1647498773407,
+    "stop" : 1647498782822,
+    "duration" : 9415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b33a096a1bec7a",
+  "name" : "And User is on \"Add Pet\" page",
+  "time" : {
+    "start" : 1647498784326,
+    "stop" : 1647498786729,
+    "duration" : 2403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dbc66fa6cbc3b59",
+  "name" : "Given User is on pet clinic website",
+  "time" : {
+    "start" : 1647498766290,
+    "stop" : 1647498770181,
+    "duration" : 3891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3772035436df9b7f",
+  "name" : "",
+  "time" : {
+    "start" : 1647498787480,
+    "stop" : 1647498787481,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ba04da8eee712b7",
+  "name" : "When User is navigate to \"Add Owner\" page",
+  "time" : {
+    "start" : 1647498771760,
+    "stop" : 1647498773406,
+    "duration" : 1646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

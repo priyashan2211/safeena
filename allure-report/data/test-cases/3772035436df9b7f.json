@@ -1,0 +1,70 @@
+{
+  "uid" : "3772035436df9b7f",
+  "name" : "",
+  "fullName" : "pet details: Verify pet details.",
+  "historyId" : "4bf99b1a7fb35e767c598b6eb248c677",
+  "time" : {
+    "start" : 1647498787480,
+    "stop" : 1647498787481,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testClass",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.74"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9f0de072c30f1735",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647498766286,
+        "stop" : 1647498766290,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3772035436df9b7f.json",
+  "parameterValues" : [ "chrome-99.0.4844.74" ]
+}

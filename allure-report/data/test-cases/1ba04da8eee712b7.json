@@ -1,0 +1,62 @@
+{
+  "uid" : "1ba04da8eee712b7",
+  "name" : "When User is navigate to \"Add Owner\" page",
+  "fullName" : "pet details: Verify pet details.When User is navigate to \"Add Owner\" page",
+  "historyId" : "edbcc6c8b95ee734e6e1a042c21cfa56",
+  "time" : {
+    "start" : 1647498771760,
+    "stop" : 1647498773406,
+    "duration" : 1646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testClass",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User is navigate to \"Add Owner\" page"
+  }, {
+    "name" : "package",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.74"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ba04da8eee712b7.json",
+  "parameterValues" : [ "chrome-99.0.4844.74" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "d8b33a096a1bec7a",
+  "name" : "And User is on \"Add Pet\" page",
+  "fullName" : "pet details: Verify pet details.And User is on \"Add Pet\" page",
+  "historyId" : "96ea7710c9de02851b750f159705dd0b",
+  "time" : {
+    "start" : 1647498784326,
+    "stop" : 1647498786729,
+    "duration" : 2403
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testClass",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "testMethod",
+    "value" : "And User is on \"Add Pet\" page"
+  }, {
+    "name" : "package",
+    "value" : "pet details: Verify pet details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.74"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8b33a096a1bec7a.json",
+  "parameterValues" : [ "chrome-99.0.4844.74" ]
+}
