@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
- 
+    "test": "mocha --recursive test",
+    "bump-version": "npm version patch"
   },
   "keywords": [],
   "author": "",
