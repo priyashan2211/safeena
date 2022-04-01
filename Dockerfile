@@ -7,6 +7,8 @@ RUN apk add openjdk11
 RUN java --version
 
 #install npm
+RUN npm install -g webdriver-manager
+
 #RUN apk update && apk upgrade -y && \
  #   apk add -y nodejs \
   #  npm                       # note this one
