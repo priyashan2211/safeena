@@ -7,6 +7,13 @@ RUN apk add openjdk11
 RUN java --version
 
 #install npm
+FROM node:14
+
+RUN apt-get update
+RUN apt-get install -y \
+  sqlite
+
+FROM jekyll/jekyll
 RUN apt-get install --no-install-recommends apt-utils --yes \
     && apt-get install --no-install-recommends npm --yes
 RUN npm install -g webdriver-manager
